@@ -1,0 +1,23 @@
+.Movie {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  grid-template-areas: 'poster information';
+  margin-bottom: 15px;
+}
+
+.Movie__poster {
+  grid-area: poster;
+}
+
+.Movie__information {
+  grid-area: information;
+}
+
+.Movie__title {
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+
+.Movie__genre {
+  font-style: italic;
+}

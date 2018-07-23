@@ -1,0 +1,11 @@
+.AppMessage--info {
+  color: blue;
+}
+
+.AppMessage--error {
+  color: darkred;
+}
+
+.AppMessage--success {
+  color: green;
+}

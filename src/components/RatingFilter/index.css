@@ -1,0 +1,11 @@
+.RatingFilter {
+  margin-bottom: 20px;
+}
+
+.RatingFilter__heading {
+  margin-bottom: 10px;
+}
+
+.RatingFilter__input {
+  font-size: 2em;
+}

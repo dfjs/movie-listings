@@ -1,0 +1,13 @@
+.GenreFilter__heading {
+  margin-bottom: 10px;
+}
+
+.GenreFilter ul {
+  margin: 0 0 10px;
+  padding: 0;
+  list-style: none;
+}
+
+.GenreFilter li {
+  display: inline;
+}

@@ -1,0 +1,8 @@
+.Genre {
+  padding: 5px 0;
+}
+
+.Genre__input {
+  margin-right: 10px;
+  font-size: 16px;
+}

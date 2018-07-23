@@ -1,0 +1,21 @@
+.App {
+  padding: 20px;
+}
+
+.App__header {
+  margin-bottom: 20px;
+}
+
+.App__container {
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  grid-template-areas: 'left right';
+}
+
+.App__filters {
+  grid-area: left;
+}
+
+.App__movies {
+  grid-area: right;
+}
