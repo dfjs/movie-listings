@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+# Movie Listings!
+
+This is a SPA that uses a couple of TMDB API endpoints to get movies that are now playing,
+and allows the user to filter these movies by their Ratings and Genres - sorted by popularity.
+
+Note: This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
 
 ## Setup/environment requirements
 
